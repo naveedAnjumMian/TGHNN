@@ -1,1 +1,1 @@
-# TGHNN
+# source code for THGNN
